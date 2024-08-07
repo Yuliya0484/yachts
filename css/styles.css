@@ -307,12 +307,12 @@ a {
 } */
 .footer-logo {
   color: #fbfbfb;
+  padding-right: 37px;
 }
 .footer-info-list {
   display: flex;
   text-align: center;
   justify-content: center;
-  align-items: center;
   gap: 4px;
 }
 .footer-info-item {
@@ -394,7 +394,6 @@ a {
     flex-wrap: nowrap;
     padding-top: 50px;
     padding-bottom: 96px;
-    align-items: center;
     justify-content: space-around;
   }
   .footer-logo {
