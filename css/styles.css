@@ -758,6 +758,7 @@ img {
 }
 .footer-text-container {
   margin-bottom: 82px;
+  min-width: 340px;
 }
 .footer-main-text {
   font-size: 18px;
@@ -814,6 +815,10 @@ img {
   }
   .footer-main-text {
     font-size: 32px;
+  }
+  .footer-text-container {
+    margin: 0 auto;
+    min-width: 340px;
   }
   .footer-link-text {
     padding-right: 32px;
